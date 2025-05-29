@@ -1,5 +1,4 @@
-# My_Personal_GPT_Assistant
-# ChatGPT Assistant (FastAPI + Static Frontend)
+# Personal GPT Assistant (FastAPI + Static Frontend)
 
 A simple, yet feature-rich ChatGPT-powered chatbot built with FastAPI and a static HTML/CSS/JavaScript frontend. This project demonstrates how to serve static assets, handle environment variables securely, and interact with OpenAI’s GPT models in a production-ready manner.
 
